@@ -67,6 +67,7 @@ nav a:hover {
     width: 100%;
     padding: 8px 0;
     margin: 8px 0;
+    boder-radius: 50%;
 }
 
 .contact-form input[type=text] {
