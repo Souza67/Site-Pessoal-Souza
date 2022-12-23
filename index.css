@@ -75,10 +75,11 @@ nav a:hover {
 
 button {
     color: black;
-    background-color: white;
+    background-color: #7f1ed5;
     border: none;
     width: 100px;
     height: 30px;
+    border-radius: 40%;
 }
 
 h3 {
